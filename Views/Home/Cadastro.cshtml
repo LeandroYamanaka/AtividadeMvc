@@ -1,0 +1,39 @@
+@using ProjetoMVC.Models
+@model List<Usuario>
+@{
+    ViewData["Title"] = "Agendamentos Cadastrados";
+}
+<h2 class="Titulo-Conteudo">Agendamento cadastrado com sucesso!</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Data</th>
+            <th>Horario</th>
+            <th>Pessoas</th>
+            <th>Telefone</th>
+            <th>Email</th>
+            <th>Texto_descricao</th>
+
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (Usuario u in Model)
+        {
+            <tr>
+                <td>@u.Nome</td>
+                <td>@u.Data</td>
+                <td>@u.Horario</td>
+                <td>@u.Pessoas</td>
+                <td>@u.Telefone</td>
+                <td>@u.Email</td>
+                <td>@u.Texto_descricao</td>
+
+            </tr>
+        }
+
+    </tbody>
+
+</table>
+<a href="Agendamento">Voltar ao Agendamento</a>

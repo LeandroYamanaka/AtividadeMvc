@@ -1,0 +1,127 @@
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.exe
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.deps.json
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.runtimeconfig.json
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.runtimeconfig.dev.json
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.dll
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.pdb
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.Views.dll
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\bin\Debug\netcoreapp3.1\Projeto Integrador.Views.pdb
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.csprojAssemblyReference.cache
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.AssemblyInfoInputs.cache
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.AssemblyInfo.cs
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorAssemblyInfo.cache
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorAssemblyInfo.cs
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.TagHelpers.input.cache
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.TagHelpers.output.cache
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorCoreGenerate.cache
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorTargetAssemblyInfo.cache
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorTargetAssemblyInfo.cs
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.Views.pdb
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Integrador.StaticWebAssets.Manifest.cache
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Integrador.StaticWebAssets.xml
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.dll
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.pdb
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.genruntimeconfig.cache
+C:\Users\leand\Documents\TI Senac\Projeto Integrador\obj\Debug\netcoreapp3.1\Projeto Integrador.csproj.CopyComplete
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.exe
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.deps.json
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.runtimeconfig.json
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.runtimeconfig.dev.json
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.dll
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.pdb
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.Views.dll
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.Views.pdb
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.csprojAssemblyReference.cache
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.AssemblyInfoInputs.cache
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.AssemblyInfo.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorAssemblyInfo.cache
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorAssemblyInfo.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.TagHelpers.input.cache
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.TagHelpers.output.cache
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorCoreGenerate.cache
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorTargetAssemblyInfo.cache
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorTargetAssemblyInfo.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.Views.pdb
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Integrador.StaticWebAssets.Manifest.cache
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Integrador.StaticWebAssets.xml
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.dll
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.pdb
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.genruntimeconfig.cache
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.csproj.CopyComplete
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Passeios.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Fotos.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Restaurantes.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamento.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\ComoChegar.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Depoimento.cshtml.g.cs
+C:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.csprojAssemblyReference.cache
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.AssemblyInfoInputs.cache
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.AssemblyInfo.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.csproj.CoreCompileInputs.cache
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorAssemblyInfo.cache
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorAssemblyInfo.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.dll
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.pdb
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.TagHelpers.input.cache
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.TagHelpers.output.cache
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorCoreGenerate.cache
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamento.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\ComoChegar.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Depoimento.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Fotos.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListaDepoimento.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Passeios.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Restaurantes.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorTargetAssemblyInfo.cache
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorTargetAssemblyInfo.cs
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.exe
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.deps.json
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.runtimeconfig.json
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.runtimeconfig.dev.json
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.dll
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.pdb
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.Views.dll
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.Views.pdb
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.Views.pdb
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.csproj.CopyComplete
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Integrador.StaticWebAssets.Manifest.cache
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Integrador.StaticWebAssets.xml
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.genruntimeconfig.cache

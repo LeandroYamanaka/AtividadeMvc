@@ -1,0 +1,35 @@
+@using ProjetoMVC.Models
+@model Usuario
+@{
+    ViewData["Title"] = "Agendamento";
+}
+
+<div class="texto-home">
+    <h2 class="Titulo-Conteudo">Agendamento</h2>
+    <form asp-action="Agendamento" method="POST">
+
+        <p><label asp-for="Nome">Nome:</label>
+            <input asp-for="Nome" type="text">
+        </p>
+        <p><label asp-for="Data">Data:</label>
+            <input asp-for="Data" type="date">
+        </p>
+        <p><label asp-for="Horario">Horário:</label>
+            <input asp-for="Horario" type="time">
+        </p>
+        <p><label asp-for="Pessoas">Pessoas:</label>
+            <input asp-for="Pessoas" type="number">
+        </p>
+        <p>
+            <label asp-for="Telefone">Telefone:</label>
+            <input asp-for="Telefone" type="tel">
+        </p>
+        <p><label asp-for="Email">Email:</label>
+            <input asp-for="Email" type="email">
+        </p>
+        <p> <textarea asp-for="Texto_descricao" rows="5" cols="33"
+                placeholder="Informações adicionais, escreva aqui."></textarea></p>
+        <p><input type="submit" value="Agendar"></p>
+    </form>
+</div>
+<p>@ViewBag.Mensagem</p>

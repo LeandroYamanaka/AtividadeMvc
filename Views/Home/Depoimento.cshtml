@@ -1,0 +1,20 @@
+@using ProjetoMVC.Models
+@model Depoimento
+@{
+    ViewData["Title"] = "Depoimentos";
+}
+
+<h2 class="Titulo-Conteudo">Deixe seu depoimento! Conte-nos como foi sua experiência!</h2>
+<div class="texto-home">
+    <form asp-action="Depoimento" method="POST">
+        <p><label asp-for="Nome">Nome:</label>
+            <input asp-for="Nome" type="text">
+        </p>
+        <p><label asp-for="Data">Data:</label>
+            <input asp-for="Data">
+        </p>
+        <p> <textarea asp-for="Mensagem" rows="5" cols="33" placeholder="Deixe seu Depoimento."></textarea></p>
+        <p><input type="submit" value="Cadastrar"></p>
+    </form>
+</div>
+<p>@ViewBag.Mensagem</p>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NDud53FPOWAaw8dG6dtMZou+WtqS0WzG5B6q+It95CY+/9uN/mxfjuoYQFN+KW+iBQ3Y8TQ2wQOVifn+iJKXgQ==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\leand\\Documents\\TI Senac\\Projeto_Integrador\\ProjetoMVC\\Projeto Integrador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\mysqlconnector\\1.2.1\\mysqlconnector.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

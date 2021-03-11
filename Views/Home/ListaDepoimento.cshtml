@@ -1,0 +1,27 @@
+@model List<Depoimento>
+@{
+    ViewData["Title"] = "Lista de Depoimentos";
+}
+
+<!--<div class="Depoimentos">
+    @foreach (Depoimento d in Model)
+{
+                                                <div class="Depoimento-box">
+                                                    <p>@d.Nome</p>
+                                                    <p>@d.Data</p>
+                                                    <p>"@d.Mensagem"</p>
+                                                </div>
+}
+</div>-->
+@foreach (Depoimento d in Model)
+{
+    <div class="card-group" style="padding-top: 10px;">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">@d.Nome</h5>
+                <p class="card-text">@d.Data</p>
+                <p class="card-text">@d.Mensagem</p>
+            </div>
+        </div>
+    </div>
+}

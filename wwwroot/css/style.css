@@ -1,0 +1,222 @@
+/* Cores
+Título-Banner: rgba(255, 255, 255, 0.3)
+Background: #F6F6F6
+Título-Menu: #306FFD
+Border-Menu: seagreen
+Text-Menu: #202020
+Footer: #D3D3D3
+*/
+header {
+    width: 100%;
+    height: 300px;
+    margin: 0px;
+}
+body {
+    background-image: url("../img/img_fundo2.jpg");
+    background-size: cover;
+    height: 100%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 0px;
+}
+#Tempo {
+    width: 100%;
+    height: 220px;
+    float: left;
+}
+#PrefeituraRJ {
+    width: 100%;
+    height: 220px;
+    float: left;
+    padding-top: 10px;
+}
+.imagens-esquerda {
+    width: 100%;
+    height: auto;
+}
+.Menu-esquerda {
+   width: 250px;
+   height: 100%;
+   margin-top: 0px; 
+   padding-left: 30px;
+   font-family: verdana;
+   float: left;
+   background-color: #F6F6F6;
+}
+.Menu-esquerda ul li {
+    list-style: none;
+    padding-bottom: 10px;
+    display: list-item;
+    margin: 0px;
+    margin-left: -40px;
+}
+.titulo-menu {
+    border: 1px #306FFD solid;
+    padding: 15px;  
+    background-image: url("../img/fundomenu.png");
+    background-size: cover;
+    font-size: 22px;
+    text-align: center;
+    color: white;
+}
+.menu {
+    border: seagreen 1px solid;
+    padding: 10px;
+    background-image: url("../img/Fundobotoes.png");
+    background-size: cover;
+    font-size: 14px;
+}
+a {
+    text-decoration: none;
+    color: #202020;
+}
+article {
+    width: 82%;
+    float: left;
+    background-color:#F6F6F6;
+    
+}
+.Conteudo {
+    width: 82%;
+    height: 100%;
+    float: left;
+    background-color: #F6F6F6;
+    margin-left: 80px;
+}
+.imagens-home {
+    text-align: center;
+    margin-top: 50px;
+    height: 50%;
+    margin-bottom: 100px;
+}
+h2 {
+    text-align: center;
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.texto-home {
+    text-align: justify;
+    font-size: 16px;
+    margin-left: 60px;
+    margin-right: 60px;
+    height: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    text-indent: 3em;
+}
+footer {
+    width: 100%;
+    height: 80px;
+    background-color: #D3D3D3;
+    bottom: 0px;
+    float: left;
+    margin-bottom: 0px;
+}
+.nome-rodape {
+    text-align: center;
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 70%;
+    margin-left: -80px;
+    margin-bottom: 0px;
+}
+.icone-rodape {
+    display: inline-block;
+    margin-right: 80px;
+    width: 20%;
+    margin-left: 80px;   
+}
+.icone-rodape ul li {
+    list-style: none;
+    display: inline-block;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+.icone-rodape a {
+    text-decoration: none;
+}
+.Titulo-Conteudo{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.texto-restaurantes{
+    font-size: 25px;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+}
+.Depoimentos{
+    width: 100%;
+    height: 100%;
+    margin-left: 15%;
+    padding: 10px;
+    align-items: center;
+}
+.Depoimento-texto{
+    width: 100%;
+    height: 100%;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Depoimento-nome{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: auto;
+}
+.Depoimento-box{
+    width: 560px;
+    height: auto;
+    border:rgba(255, 255, 255, 0.3) 1px solid;
+    border-radius: 5px;
+    box-shadow: 0 0 1em #7a7a7a;
+    margin-top: 20px;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    background-color: rgba(240, 226, 163, 0.3);
+}
+#box {
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 30px;
+} 
+table tr th {
+    border: gray 1px solid;
+    padding: 10px;
+    background-color: rgb(63, 199, 122);
+}  
+td {
+    border: gray 1px solid;
+    padding: 10px;
+}
+.carousel-inner {
+    width: 300px;
+    height: 200px;
+}
+.carousel-inner a {
+    width: auto;
+    height: auto;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+.container {
+    width: 550px;
+    height: 400px;
+
+}
+.carousel-inner .active {
+    width: 600px;
+    height: 400px;
+}
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
