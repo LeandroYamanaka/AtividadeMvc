@@ -110,7 +110,6 @@ E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcor
 E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.RazorTargetAssemblyInfo.cs
 E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\appsettings.json
-E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.exe
 E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.deps.json
 E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\bin\Debug\netcoreapp3.1\Projeto Integrador.runtimeconfig.json
@@ -125,3 +124,4 @@ E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcor
 E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Integrador.StaticWebAssets.Manifest.cache
 E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\staticwebassets\Projeto Integrador.StaticWebAssets.xml
 E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\Projeto Integrador.genruntimeconfig.cache
+E:\Users\leand\Documents\TI Senac\Projeto_Integrador\ProjetoMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\Projeto Integrador.styles.css
